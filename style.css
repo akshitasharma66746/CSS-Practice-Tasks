@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(30, 18%, 91%);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color:lab(53.23% 80.11 67.22 / 0.708);
+    text-align: center;
+}
+h2{
+    color: rgba(97, 159, 20, 0.768);
+}
+p{
+    font-size: 18px;
+}
+button{
+    border: 2px solid black;
+    background-color:green;
+    color:white;
+    padding:5px 9px;
+    border-radius: 10px;
+    
+}
