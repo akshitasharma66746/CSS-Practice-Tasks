@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(143, 224, 174);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+#container{
+    background-color: rgb(87, 165, 207);
+    height:auto;
+    max-width:500px;
+    margin: 20px auto;
+    padding:10px 40px;
+    border-radius: 40px 0px;
+}
+
+ .content{
+    text-align: center;
+    margin:20px;
+    text-decoration: underline;
+    
+ }
+ li,p{
+    color:rgb(219, 219, 159);
+ }
+ button{
+    padding:8px 18px;
+    display: block;
+margin: 30px auto 10px;
+    border-radius: 10px;
+    background-color: red;
+    color: aliceblue;
+    
+ }
+ h2{
+    color:rgb(36, 36, 144);
+    margin:10px 0 2px 0;
+    
+ }
+ 
