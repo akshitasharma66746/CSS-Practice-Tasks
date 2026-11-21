@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+#card{
+    background-color: hsl(133, 39%, 76%);
+    max-width:350px;
+    height:auto;
+    margin:40px auto;
+    padding:10px;
+    border: 2px solid black;
+    border-radius:10px;
+    box-shadow: 5px 5px 15px 3px #1f0808;
+    
+}
+img{
+    /* margin:5px 10px; */
+    height:300px;
+    width:100%;
+    border-radius: 10px;
+}
+button{
+    padding:8px 25px;
+    color:white;
+    background-color:red;
+    border-radius:10px;
+    display: block;
+    margin: 10px auto;
+}
+p{
+    font-size: 18px;
+    font-weight: bold;
+    margin:8px 0px;
+}
